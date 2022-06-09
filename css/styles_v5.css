@@ -44,5 +44,5 @@
   }
 
 body {
-  overflow: hidden; /* Hide scrollbars */
+  overflow-x: hidden;
 }
