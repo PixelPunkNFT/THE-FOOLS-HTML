@@ -42,3 +42,7 @@
     
     color: rgb(215, 31, 190);
   }
+
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
